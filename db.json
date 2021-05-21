@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Caption Levi",
+      "username": "Levi",
+      "email": "levi@aot.com",
+      "phone": "827351394",
+      "website": "AOT.com",
+      "id": 7
+    },
+    {
+      "name": "Yagami Light",
+      "username": "Light",
+      "email": "Light@deathnote.com",
+      "phone": "9462448940",
+      "website": "Light.com",
+      "id": 8
+    },
+    {
+      "name": "L Lawliet",
+      "username": "L",
+      "email": "lawliet@deathnote.com",
+      "phone": "8539084644",
+      "website": "Lawliet.com",
+      "id": 9
+    },
+    {
+      "name": "tanjiro",
+      "username": "tanjiro",
+      "email": "tanjiro@demonslayer.com",
+      "phone": "8462384092",
+      "website": "tanjiro.com",
+      "id": 10
+    },
+    {
+      "name": "Eren Jaeger",
+      "username": "Eren ",
+      "email": "Eren@aot.com",
+      "phone": "7362485093",
+      "website": "Eren.com",
+      "id": 11
+    },
+    {
+      "name": "bruce wayne",
+      "username": "bruce",
+      "email": "bruce@batman.com",
+      "phone": "8462418393",
+      "website": "brucewayne.com",
+      "id": 12
+    },
+    {
+      "name": "tony stark",
+      "username": "tony ",
+      "email": "tonystark@ironman.com",
+      "phone": "7893526478",
+      "website": "tonystark.com",
+      "id": 13
+    }
+  ]
+}
